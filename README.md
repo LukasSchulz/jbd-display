@@ -2,7 +2,8 @@
 
 ## ToDo:
 - B and GND Pins on the rs485-uart/ttl-chip are wrong and need to be switched.
-
+- holes for the screen are to small
+- screw of the oled-screen is under the esp-32 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
