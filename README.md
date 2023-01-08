@@ -1,5 +1,7 @@
 # lifepo4-display
 
+## ToDo:
+- B and GND Pins on the rs485-uart/ttl-chip are wrong and need to be switched.
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
